@@ -10,7 +10,7 @@
 * Give a link to your Charting Library where we can reproduce it
 
 ## Asking a question
-* We spent a lot of time creating those [docs](https://github.com/tradingview/charting_library/wiki) for you to make your life easier. Please give it a try. If you are a newcomer please make sure that you've read the [Best Practices](https://github.com/tradingview/charting_library/wiki/Best-practices) also.
+* We spent a lot of time creating those [docs](https://github.com/tradingview/charting_library/wiki) for you to make your life easier. Please give it a try. If you are a newcomer please make sure that you've read the [Best Practices](https://github.com/tradingview/charting_library/wiki/Best-practices) and [Frequently Asked Questions](https://github.com/tradingview/charting_library/wiki/Frequently-Asked-Questions).
 * Describe what do you want to achieve
 * Provide screenshots if possible
  
