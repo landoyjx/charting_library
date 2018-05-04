@@ -20,4 +20,4 @@ Uncommend `debug: true` in the widget constructor and post here the console logs
 
 **Symbol**
 
-What symbol(instrument) your problem related to.
+What symbol(instrument) your problem is related to.
