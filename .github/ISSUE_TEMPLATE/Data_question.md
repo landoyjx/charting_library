@@ -6,9 +6,10 @@ about: Ask a question if you have a problem with connecting your data
 
 # Data Question
 
-**Did you read FAQ?**
+<!-- PLEASE MAKE SURE THAT YOU HAVE READ FAQ -->
+<!-- https://github.com/tradingview/charting_library/wiki/Frequently-Asked-Questions -->
 
-https://github.com/tradingview/charting_library/wiki/Frequently-Asked-Questions
+- [ ] I have read FAQ (replace the space in the brackets with `x`)
 
 **Describe the problem**
 
