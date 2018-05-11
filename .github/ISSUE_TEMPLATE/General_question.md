@@ -13,4 +13,4 @@ about: Ask a question if you cannot find an answer in the documentation
 
 **Ask your question with the greatest possible detail**
 
-Write your question right here...
+<!-- Write your question right here...  -->
