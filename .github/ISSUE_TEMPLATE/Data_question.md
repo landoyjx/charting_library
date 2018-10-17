@@ -17,7 +17,7 @@ A clear and concise description of what the problem is.
 
 **Console logs**
 
-Uncommend `debug: true` in the widget constructor and post here all console logs. ```Use a triple backtick in front and behind the logs.```
+Uncomment `debug: true` in the widget constructor and post here all console logs. ```Use a triple backtick in front and behind the logs.```
 
 **Symbol**
 
